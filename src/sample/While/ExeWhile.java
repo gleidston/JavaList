@@ -1,4 +1,4 @@
-package sample;
+package sample.While;
 
 import java.util.Scanner;
 
